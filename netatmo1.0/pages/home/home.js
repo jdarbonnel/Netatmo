@@ -22,8 +22,8 @@
     ///////// initiate & read data from an existing Netatmo device
     function Netatmo_Init_Reading() {
 
-        var clientID = "5a660942923dfe16168b59a1";                      // <--- Add your ouath client ID here (from https://dev.netatmo.com/dev/listapps)
-        var clientSecret = "eANScodaXlSLhKtHXnuxju4fqf8EzNvX1x";    // <--- Add your ouath client secret here (from https://dev.netatmo.com/dev/listapps)
+        var clientID = "5a6c9c300f21e125ee8b7522";                      // <--- Add your ouath client ID here (from https://dev.netatmo.com/dev/listapps)
+        var clientSecret = "lZeU84wHsZmp7j7ZjNtnCehB86pl3mtBMww5u";    // <--- Add your ouath client secret here (from https://dev.netatmo.com/dev/listapps)
 
 
         var username = document.getElementById("email").value;      // Entered by user
